@@ -21,6 +21,7 @@ Feel free to reach out: litzyrivero@ufl.edu</br>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,html,css,javascript,sass,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=aws"/>
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
     <img src="https://skillicons.dev/icons?i=git,vscode"/>
     <img src="https://skillicons.dev/icons?i=figma,pycharm,clion"/>
