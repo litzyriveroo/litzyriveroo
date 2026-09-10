@@ -20,9 +20,8 @@ Feel free to reach out: litzyrivero@ufl.edu</br>
 <h3> Some of my Favorite Tools and Languages </h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,html,css,javascript,sass,tailwind"/>
-    <img src="https://skillicons.dev/icons?i=aws"/>
-    <img src="https://skillicons.dev/icons?i=python,cpp,bash,flask"/>
+    <img src="https://skillicons.dev/icons?i=react,javascript,aws"/>
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash"/>
     <img src="https://skillicons.dev/icons?i=git,vscode"/>
     <img src="https://skillicons.dev/icons?i=figma,pycharm,clion"/>
     <img src="https://skillicons.dev/icons?i=docker,postgresql,vite,firebase,ubuntu"/>
